@@ -1,6 +1,8 @@
 {
   "name": "front",
   "version": "0.1.0",
+  "homepage": "front",
+
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
