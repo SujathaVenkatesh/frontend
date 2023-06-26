@@ -10,15 +10,15 @@ const Sercon = () => {
       title: "Web Development",
     },
     {
-      url: "https://t4.ftcdn.net/jpg/03/23/45/53/360_F_323455393_fZckxWnDgM7yMnjBFeyCB3GKmeD1wInS.jpg",
+      url: "https://media.istockphoto.com/id/1363104989/photo/diverse-team-of-professional-businesspeople-meeting-in-the-office-conference-room-creative.jpg?s=612x612&w=0&k=20&c=TGdAKum3fkCmS0R57vk7tbZaGkQ_Lc9EC2uvOhTowIE=",
       title: "Digital Marketing",
     },
     {
-      url: "https://media.istockphoto.com/id/1173805365/photo/software-developer-freelancer-working-with-program-code.jpg?s=612x612&w=0&k=20&c=L5Mn49_UTmymts6rKNKTladpQzANMQ018ZizMOquopw=",
+      url: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
       title: "Product Development",
     },
     {
-      url: "https://www.shutterstock.com/image-illustration/cyber-space-world-business-technology-260nw-1401347999.jpg",
+      url: "https://images.unsplash.com/photo-1553484771-371a605b060b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
       title: "Content Development",
     },
   ];

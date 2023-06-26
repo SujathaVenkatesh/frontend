@@ -38,7 +38,7 @@ function App() {
           <Route path='/Register' component={Register}/>
           <Route path='/Cube' component={Cube}/>
           <Route path='/Welcome' component={Welcome}/>
-
+          
           
 
           

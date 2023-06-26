@@ -10,6 +10,7 @@ import  FactsSection from '../count2';
 import Testimonials from '../testimonials';
 import Snap from '../snaps';
 import './Home.css';
+// import SkillsSection from '../skills';
 function Home() {
   return (
     <div>
@@ -25,8 +26,7 @@ function Home() {
       <FactsSection/>
 
       <Snap/>
-
-
+        {/* <SkillsSection/> */}
       <Testimonials/>
 
       <Footer/>
